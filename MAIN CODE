@@ -1,8 +1,5 @@
 """
  Modelling a zombie epidemic
-
- Author (python): A. Stewart
- Authors (java): S. Bhatnagar, J.F. Briere, J. Sumner
  Version: January 2020
  Description: Euler solution of zombie SIR model
 """
